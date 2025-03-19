@@ -6,7 +6,7 @@ Solteiro, 37 anos.<br>
 [Linkedin](https://linkedin.com/in/paulo-campos/)
 
 ---
-### 🗎 RESUMO
+### 📄 RESUMO
 
 Aos 22 anos conheci a profissão e passei a buscar conhecimentos que me ajudassem a ter uma carreira na área para desenvolver meu perfil profissional. Hoje busco oportunidades que me proporcionem estabilidade no meu estilo de vida.
 
@@ -19,10 +19,12 @@ Aos 22 anos conheci a profissão e passei a buscar conhecimentos que me ajudass
 Universidade Cesumar, concluído em 2015.
 <br>
 <br>
+
 **Graduação em Design Gráfico**<br>
 Universidade Paulista (UNIP), trancado.
 <br>
 <br>
+
 #### REGULAR
 
 **Arquitetura de informação + Mobile**<br>
@@ -41,6 +43,7 @@ Tecnoponta, concluído em 2010.
 Master Data Informática, concluído em 2000.
 <br>
 <br>
+
 #### EXTRA
 
 **Marketing**<br>
@@ -67,6 +70,7 @@ Stack:<br>
 GIT(Github), Storybook, Linear, Angular.
 <br>
 <br>
+
 **Desenvolvedor Front-End Sênior**<br>
 Arcotech, 2021 a 2022<br>
 
@@ -81,6 +85,7 @@ Stack:<br>
 GIT(Github), Storybook, ReactJS, Jest, CSS-in-JS(Emotion), Chakra, Microfrontend(Turborepo).
 <br>
 <br>
+
 **Desenvolvedor Front-End Sênior**<br>
 IDGeo, 2019 a 2020.
 
@@ -93,6 +98,7 @@ Stack:<br>
 GIT(Gitlab), Ionic, Angular, Charts, GraphQL.
 <br>
 <br>
+
 **Desenvolvedor Front-End Pleno**<br>
 Me Conheça, 2018 a 2019.
 
@@ -105,6 +111,7 @@ Stack:<br>
 GIT(Bitbucket), Ionic, Angular, Code Push, NodeJS, Coffeescript.
 <br>
 <br>
+
 **Desenvolvedor Front-End Pleno**<br>
 MKT Virtual, 2016 a 2017.
 
@@ -117,6 +124,7 @@ Stack:<br>
 GIT(Bitbucket), Jekyll, Wordpress, Ionic, Angular, Code Push.
 <br>
 <br>
+
 **Desenvolvedor Front-End Júnior**<br>
 Level Up Interactive S.A., 2013 a 2016.
 
@@ -129,6 +137,7 @@ Stack:<br>
 SVN, GIT(Github), Bootstrap, Compass, jQuery, Mustache, Handlerbars, Charts, Electron, Angular JS.
 <br>
 <br>
+
 **Webdesigner**<br>
 Damásio Educacional, 2012 a 2013.
 
@@ -141,6 +150,7 @@ Vannon Internet e CRM Solutions, 2011 a 2012.
 Atuei alocado no desenvolvimento e manutenção de diversos E-Commerces.
 <br>
 <br>
+
 **Webdesigner**<br>
 Volkan Comércio de Eletroeletrônicos, 2011.
 
@@ -151,14 +161,17 @@ Atuei alocado na manutenção de três E-Commerces.
 Lúcio’s Rolamento, 2008 a 2011.
 <br>
 <br>
+
 **Auxiliar de Produção**<br>
 Tecnoplaca, 2008.
 <br>
 <br>
+
 **Auxiliar de Serviços Gerais**<br>
 Calorisol Isolantes Térmicos e Refratários (RPBC), 2007 a 2008.
 <br>
 <br>
+
 **Sing Maker**<br>
 Crê Art Pinturas, 2005 a 2006.
 
@@ -174,6 +187,7 @@ Crê Art Pinturas, 2005 a 2006.
 * Gerador estático (Jekyll)
 <br>
 <br>
+
 #### ESTILOS
 
 * Pré-processadores (LESS, SASS, SCSS)
@@ -183,6 +197,7 @@ Crê Art Pinturas, 2005 a 2006.
 * Cross-Browser
 <br>
 <br>
+
 #### FUNCIONALIDADES
 
 * Frameworks (Angular, Ionic, ReactJS, React Native, Electron)
@@ -191,6 +206,7 @@ Crê Art Pinturas, 2005 a 2006.
 * Typescript
 <br>
 <br>
+
 #### COMPLEMENTOS
 
 * Documentação (Storybook)
