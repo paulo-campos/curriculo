@@ -185,8 +185,6 @@ Crê Art Pinturas, 2005 a 2006.
 * E-mail Marketing
 * Markdown
 * Gerador estático (Jekyll)
-<br>
-<br>
 
 #### ESTILOS
 
@@ -195,8 +193,6 @@ Crê Art Pinturas, 2005 a 2006.
 * Abstrações (Styled-Components, Emotion)
 * Responsividade
 * Cross-Browser
-<br>
-<br>
 
 #### FUNCIONALIDADES
 
@@ -204,8 +200,6 @@ Crê Art Pinturas, 2005 a 2006.
 * Testes (Protractor, Karma, Jasmine, Jest)
 * Coffeescript
 * Typescript
-<br>
-<br>
 
 #### COMPLEMENTOS
 
